@@ -33,8 +33,11 @@ bun install tailwindcss @tailwindcss/vite
 Se modifica el archivo vite.config.ts e index.css como se explica en la pagina:
 https://tailwindcss.com/docs/installation/using-vite
 
+# React
 
+React se basa en componentes
 
+componente: es un elemento reutilizable que encapsula la funcionalidad(lógica) y la apariencia estetica, y se puede definir como una función que retorna HTML.
 
 
 # bpp1
