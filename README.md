@@ -1,6 +1,6 @@
 # Proyecto de aprendizaje 1
 
-## core concepts
+## Core concepts
 html, css, js, git, github, mardown, bun, taildwind
 
 HTML: Define la estructura de la página sin especificar sobre su estilizado, ni lógica.
@@ -11,7 +11,7 @@ js: Permite implementar la parte algoritmica de la página, puede tener o no inf
 
 Estos 3 archivos los ejecuta el navegador para ejecutar la aplicación, pero también debemos recordar que si se trata solo de js también puede ser ejecutado por Nodejs
 
-## descripcion de los pasos seguidos
+## Descripcion de los pasos seguidos
 Instalación de bun global
 ```
 npm install bun
